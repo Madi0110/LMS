@@ -33,7 +33,7 @@ public class SwaggerConfig {
                 "Remont system for repairing any type if devices",
                 "1.0",
                 "http://www.apache.org/licenses/LICENSE-2.0",
-                new Contact("Alibek Kerimkulov","https://github.com/Kerimkulov/library-management-mapping.git","kerimkulov.ali@mail.ru"),
+                new Contact("Madiyar Seisembayev","https://github.com/Madi0110/LMS","seisembaevm@mail.ru@mail.ru"),
                 "License 2.0",
                 "http://www.apache.org/licenses/LICENSE-2.0",
                 new ArrayList<>());
